@@ -1,0 +1,53 @@
+body {
+     background: #ccc;
+}
+
+.container {
+     border: 1px solid black;
+     width: 450px;
+     margin: 0 auto;
+     background: white;
+}
+
+.purple-block {
+     background: purple;
+     width: 100%;
+     height: 50px
+}
+
+.red-block {
+     background: red;
+     margin: 0 auto;
+     width: 60%;
+     height: 450px;
+     display: block;
+     padding: 30px;
+}
+
+.blue-block {
+     background: blue;
+     margin: 20px auto;
+     width: 75%;
+     padding: 1px;
+     height: 125px;
+     display: block;
+}
+
+.yellow-block {
+     background: yellow;
+     width: 30%;
+     float: left;
+     margin: 10px 0 0 10px;
+     margin-right: 10px;
+     height: 60px;
+     display: inline-block;
+}
+
+.green-block {
+     background: green;
+     width: 55%;
+     float: right;
+     margin: 10px 10px 0 0;
+     height: 90px;
+     display: inline-block;
+}
